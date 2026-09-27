@@ -24,12 +24,6 @@ Maintained with ❤️ by **[@nvbangg](https://github.com/nvbangg)**
 [![PTIT-Helper](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=PTIT-Helper&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/PTIT-Helper)
 [![EDAns](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=EDAns&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/EDAns)
 
-- [PTIT-Helper](https://github.com/nvbangg/PTIT-Helper):
-  - Code PTIT Scraper
-  - DB PTIT Exercises Scraper
-  - Lập trình mạng Scraper
-  - .....
-
 > 👉 Các tools khác: [nvbangg](https://github.com/nvbangg)
 
 ## <a id="codeptit"></a>💻 CodePTIT
