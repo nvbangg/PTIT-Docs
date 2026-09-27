@@ -1,7 +1,7 @@
 # [nvbangg/PTIT_Docs](https://github.com/nvbangg/PTIT_Docs)
 
 > [!NOTE]
-> Tổng hợp Tài liệu và tools 🏫 PTIT • University
+> Tổng hợp Tài liệu, Code và Tools PTIT 🏫
 
 ### 🔗 Jump to:
 
