@@ -1,0 +1,6 @@
+Cô thư:
+- không sử dụng thư viện ML mà phải tự code, những thư viện như pasdas,... thì dùng bình thường
+- viết báo cáo bằng latex
+- làm slide, cuối kì thuyết trình
+
+- cuối kì 4 câu, mỗi câu 1 chương, không có CLO

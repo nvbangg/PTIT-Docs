@@ -1,0 +1,14 @@
+- Thầy Ngô Tiến Đức: NMCNPM
+
+không điểm danh
+có thi theo CLO
+- Cuối kì : lý thuyết + kiểm tra viết tay, có thể mang tài liệu giấy
+
+ 	- câu hỏi có trong ngân hàng nhưng sẽ đổi số liệu
+ 	- muốn đổi lịch thi thì email
+ 	- thi phòng máy đề trên codeptit client
+Bài tập nhóm:
+ 	- các chức năng trong bài tập cá nhân của thành viên không cần bao gồm toàn bộ hệ nhóm mà chỉ cần có chức năng là đc
+ 	- in ra quyển
+ 	- mức điểm cá nhân tùy vào chức năng bạn chọn (học sẽ biết)
+kiểm tra bt: sau tết vài tuần

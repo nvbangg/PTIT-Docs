@@ -1,0 +1,17 @@
+- Thực tập cơ sở thầy Hiến
+
+	- sản phẩm gì cũng được
+- tuần đầu sau tết: tên đề tài và nền tảng, công cụ gì( di động, web,...)
+vd: cài đặt các thuật toán duyệt đồ thị bằng ngôn ngữ c++, xây dựng AI hỗ trợ sinh viên học tập (xây dựng mô hình thôi, dùng api có sẵn), 
+sản phẩm gồm phần mềm và báo cáo (giống đồ án tốt nghiệp)
+	- làm web thì chọn trên hệ điều hành nào, hệ quản trị gì, lập trình bằng công cụ gì, nếu có ai thì mô hình nào
+	- trình bày chức năng chính (chỉ 1 2 chức năng chính nhưng hoàn chỉnh về mặt chức năng)
+- làm cá nhân , hoặc 2 3 bạn chung một đề tài nhưng chức năng là khác nhau, kết quả vẫn nộp riêng (cơ sở dữ liệu giống nhau cũng được nhưng chức năng khác nhau)
+- 1 chức năng đấy là 1 dịch vụ hoặc chức năng cung cấp cho người dùng, ví dụ chức năng đặt hàng, tìm kiếm (chứ không phải là chọn hàng cho giỏ không phải chức năng)
+	- ví dụ đặt mua hàng (gồm từ bước xem hàng, thêm hàng, thanh toán, ... không liên quan công việc khác), tìm kiếm hàng 
+	- game thì chỉ có chức năng chơi game=)))
+	- chọn ít chức năng thôi nhưng rõ ràng
+- cuối kì nộp báo cáo, thi là demo sản phẩm báo cáo
+- có báo cáo tiến độ từng bước từng tuần
+- báo cáo gửi online hoặc trực tiếp , thầy sẽ nói
+- 

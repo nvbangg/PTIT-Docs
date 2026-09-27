@@ -50,39 +50,47 @@ Maintained with ❤️ by **[@nvbangg](https://github.com/nvbangg)**
 [![Cpp_CountdownTimer](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=Cpp_CountdownTimer&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/Cpp_CountdownTimer)
 
 ## <a id="docs"></a>📚 Tài liệu:
-
-- Kì 1:
-  - [Đại số](./Đại%20số)
-  - [Giải tích 1](./Giải%20tích%201)
-  - [Tin học cơ sở 1](./Tin%20học%20cơ%20sở%201)
-  - [Triết](./Triết)
-- Kì 2:
-  - [English](./English)
-  - [Giải tích 2](./Giải%20tích%202)
-  - [Kĩ thuật số](./Kĩ%20thuật%20số)
-  - [Kinh tế chính trị](./Kinh%20tế%20chính%20trị)
-  - [Pháp luật đại cương](./Pháp%20luật%20đại%20cương)
-  - [Tin học cơ sở 2 (Code C)](./THCS2)
-  - [Vật lí ứng dụng](./Vật%20lí%20ứng%20dụng)
-- Kì 3:
-  - [Chủ nghĩa xã hội khoa học](./Chủ%20nghĩa%20xã%20hội%20khoa%20học)
-  - [Ngôn ngữ lập trình C++](./Cpp)
-  - [Kỹ năng thuyết trình](./Kỹ%20năng%20thuyết%20trình)
-  - [Toán rời rạc 1](./ToanRoiRac1)
-  - [Xác suất thống kê](./Xác%20suất%20thống%20kê)
-  - [Xử lý tín hiệu số](./Xử%20lý%20tín%20hiệu%20số)
-- Kì 4:
-  - [Cấu trúc dữ liệu và giải thuật (DSA)](./DSA)
-  - [Kiến trúc máy tính](./KienTrucMayTinh)
-  - [Kỹ năng làm việc nhóm](./Kỹ%20năng%20làm%20việc%20nhóm)
-  - [Lý thuyết thông tin](./Lý%20thuyết%20thông%20tin)
-  - [Toán rời rạc 2](./ToanRoiRac2)
-  - [Tư tưởng Hồ Chí Minh](./Tư%20tưởng%20Hồ%20Chí%20Minh)
-- Kì 5:
-  - [Cơ sở dữ liệu (SQL)](./CSDL)
-  - [Hệ điều hành](./Hệ%20điều%20hành)
-  - [Lịch sử Đảng](./Lịch%20sử%20Đảng)
-  - [Mạng máy tính](./Mạng%20máy%20tính)
-  - [Lập trình hướng đối tượng (OOP)](./OOP)
-  - [Lập trình với Python](./Python)
-- Kì 6:
+- Năm 1:
+  - Kì 1:
+    - [Đại số](./Đại%20số)
+    - [Giải tích 1](./Giải%20tích%201)
+    - [Tin học cơ sở 1](./Tin%20học%20cơ%20sở%201)
+    - [Triết](./Triết)
+  - Kì 2:
+    - [English](./English)
+    - [Giải tích 2](./Giải%20tích%202)
+    - [Kĩ thuật số](./Kĩ%20thuật%20số)
+    - [Kinh tế chính trị](./Kinh%20tế%20chính%20trị)
+    - [Pháp luật đại cương](./Pháp%20luật%20đại%20cương)
+    - [Tin học cơ sở 2 (Code C)](./THCS2)
+    - [Vật lí ứng dụng](./Vật%20lí%20ứng%20dụng)
+- Năm 2: 
+  - Kì 1:
+    - [Chủ nghĩa xã hội khoa học](./Chủ%20nghĩa%20xã%20hội%20khoa%20học)
+    - [Ngôn ngữ lập trình C++](./Cpp)
+    - [Kỹ năng thuyết trình](./Kỹ%20năng%20thuyết%20trình)
+    - [Toán rời rạc 1](./ToanRoiRac1)
+    - [Xác suất thống kê](./Xác%20suất%20thống%20kê)
+    - [Xử lý tín hiệu số](./Xử%20lý%20tín%20hiệu%20số)
+  - Kì 2:
+    - [Cấu trúc dữ liệu và giải thuật (DSA)](./DSA)
+    - [Kiến trúc máy tính](./KienTrucMayTinh)
+    - [Kỹ năng làm việc nhóm](./Kỹ%20năng%20làm%20việc%20nhóm)
+    - [Lý thuyết thông tin](./Lý%20thuyết%20thông%20tin)
+    - [Toán rời rạc 2](./ToanRoiRac2)
+    - [Tư tưởng Hồ Chí Minh](./Tư%20tưởng%20Hồ%20Chí%20Minh)
+- Năm 3: 
+  - Kì 1:
+    - [Cơ sở dữ liệu (SQL)](./CSDL)
+    - [Hệ điều hành](./Hệ%20điều%20hành)
+    - [Lịch sử Đảng](./Lịch%20sử%20Đảng)
+    - [Mạng máy tính](./Mạng%20máy%20tính)
+    - [Lập trình hướng đối tượng (OOP)](./OOP)
+    - [Lập trình với Python](./Python)
+  - Kì 2:
+    - [An toàn và bảo mật hệ thống thông tin](./An%20toàn%20và%20bảo%20mật%20hệ%20thống%20thông%20tin)
+    - [Cơ sở dữ liệu phân tán](./Cơ%20sở%20dữ%20liệu%20phân%20tán)
+    - [Kỹ năng tạo lập văn bản tiếng việt](./Kỹ%20năng%20tạo%20lập%20văn%20bản%20tiếng%20việt)
+    - [Nhập môn công nghệ phần mềm](./Nhập%20môn%20công%20nghệ%20phần%20mềm)
+    - [Nhập môn trí tuệ nhân tạo](./Nhập%20môn%20trí%20tuệ%20nhân%20tạo)
+    - [Thực tập cơ sở](./Thực%20tập%20cơ%20sở)
