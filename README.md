@@ -1,4 +1,4 @@
-# [nvbangg/PTIT_Docs](https://github.com/nvbangg/PTIT_Docs)
+# [nvbangg/PTIT-Docs](https://github.com/nvbangg/PTIT-Docs)
 
 > [!NOTE]
 > Tổng hợp Tài liệu, Code và Tools PTIT 🏫
@@ -14,7 +14,7 @@
 
 Maintained with ❤️ by **[@nvbangg](https://github.com/nvbangg)**
 
-<a href="https://github.com/nvbangg/PTIT_Docs"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FF4F81&center=true&vCenter=true&width=490&lines=%E2%AD%90+Star+this+repo+if+you+find+it+useful!" alt="Typing SVG" /></a>
+<a href="https://github.com/nvbangg/PTIT-Docs"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FF4F81&center=true&vCenter=true&width=490&lines=%E2%AD%90+Star+this+repo+if+you+find+it+useful!" alt="Typing SVG" /></a>
 
 </i></div>
 
