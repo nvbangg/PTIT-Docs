@@ -20,7 +20,7 @@ Maintained with ❤️ by **[@nvbangg](https://github.com/nvbangg)**
 
 ## <a id="tools"></a>🛠️ Tools
 
-[![Studocu-Premium-Helper](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=Studocu-Premium-Helper&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/Studocu-Premium-Helper)
+[![studocu-premium-helper](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=studocu-premium-helper&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/studocu-premium-helper)
 [![PTIT-Helper](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=PTIT-Helper&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/PTIT-Helper)
 [![EDAns](https://github-stats-extended.vercel.app/api/pin?username=nvbangg&repo=EDAns&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/nvbangg/EDAns)
 
